@@ -24,9 +24,6 @@ mendapatkan diskon otomatis, serta mencetak struk pembayaran.
 - Cetak struk pembayaran
 - Opsi batal pesanan
 
-## Teknologi
-- Bahasa Pemrograman: Python
-- Interface: Command Line (CLI)
 
 ## Struktur File
 project-uas/
