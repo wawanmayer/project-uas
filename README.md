@@ -1,10 +1,10 @@
-Final Exam Project - Coffee Shop Ordering System
+##Final Exam Project - Coffee Shop Ordering System
 
 Subject: Algorithms and Programming 
 Lecture: Falentino Sembiring M.Kom
 
 
-Group Members (Group 5)
+##Group Members (Group 5)
 1. Shalwa Maulidha Husein – (20250050069)
 2. Natasha Imanuella Putricya Tanu – (20250050099)
 3. Chindy Huraitul Jannah – (20250050103)
