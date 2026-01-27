@@ -31,9 +31,9 @@ This project is a simple Python ordering system for coffee shops. The program al
 1. Select menu number
 2. Enter order quantity
 3. Select:
-   y → add order
-   n → done
-   c → cancel order
+   1. y = add order
+   2. n = done
+   3. c = cancel
 4. The program displays the payment receipt
 
 
