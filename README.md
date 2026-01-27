@@ -1,10 +1,10 @@
-##Final Exam Project - Coffee Shop Ordering System
+# Final Exam Project - Coffee Shop Ordering System
 
 Subject: Algorithms and Programming 
 Lecture: Falentino Sembiring M.Kom
 
 
-##Group Members (Group 5)
+## Group Members (Group 5)
 1. Shalwa Maulidha Husein – (20250050069)
 2. Natasha Imanuella Putricya Tanu – (20250050099)
 3. Chindy Huraitul Jannah – (20250050103)
@@ -13,11 +13,11 @@ Lecture: Falentino Sembiring M.Kom
 6. Uzochukwu Somtochukwu Peter  - (20250050124)
 
 
-Project Description
+## Project Description
 This project is a simple Python ordering system for coffee shops. The program allows users to select menus, determine the number of orders, get automatic discounts, and print payment receipts.
 
 
-Program Features
+## Program Features
 1. Display beverage menus (Coffee, Tea, Smoothies)
 2. Input orders based on the menu
 3. Input the number of orders (quantity)
@@ -27,7 +27,7 @@ Program Features
 7. Order cancellation option
 
 
-How to Use
+## How to Use
 1. Select menu number
 2. Enter order quantity
 3. Select:
@@ -37,7 +37,7 @@ How to Use
 4. The program displays the payment receipt
 
 
-Task 
+## Task 
 1. Shalwa Maulidha Husein – (Coding)
 2. Natasha Imanuella Putricya Tanu – (Coding & Flowchart)
 3. Chindy Huraitul Jannah – (Cameraman)
