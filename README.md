@@ -1,51 +1,53 @@
-# Project UAS - Coffee Shop Ordering System
+Final Exam Project - Coffee Shop Ordering System
 
-Mata Kuliah : Algoritma dan Pemograman 
-Dosen Pengampu : Falentino Sembiring M.Kom
+Subject: Algorithms and Programming 
+Lecture: Falentino Sembiring M.Kom
 
-## Anggota Kelompok
+
+Group Members (Group 5)
 1. Shalwa Maulidha Husein – (20250050069)
-2. Chindy Huraitul Jannah – (20250050103)
-3. Natasha Immanuela Putricya Tanu – (NIM)
-4. Raihani Putrina Hendri – (NIM)
-5. Nurisma Aulia - (NIM)
-
-## Deskripsi Project
-Project ini merupakan sistem pemesanan sederhana untuk coffee shopberbasis Python (CLI).  
-Program memungkinkan pengguna memilih menu, menentukan jumlah pesanan,
-mendapatkan diskon otomatis, serta mencetak struk pembayaran.
-
-## Fitur Program
-- Menampilkan menu minuman (Coffee, Tea, Smoothies)
-- Input pesanan berdasarkan nomor menu
-- Input jumlah pesanan
-- Perhitungan total otomatis
-- Diskon 10% jika total belanja > Rp100.000
-- Cetak struk pembayaran
-- Opsi batal pesanan
+2. Natasha Imanuella Putricya Tanu – (20250050099)
+3. Chindy Huraitul Jannah – (20250050103)
+4. Raihani Putrina Hendri – (20250050054)
+5. Nurisma Aulia - (20250050050)
+6. Uzochukwu Somtochukwu Peter  - (20250050124)
 
 
-## Struktur File
-project-uas/
-├── README.md
-└── main.py
+Project Description
+This project is a simple Python ordering system for coffee shops. The program allows users to select menus, determine the number of orders, get automatic discounts, and print payment receipts.
 
-## Cara Penggunaan
-1. Pilih nomor menu
-2. Masukkan jumlah pesanan
-3. Pilih:
-   - y → tambah pesanan
-   - n → selesai
-   - c → batalkan pesanan
-4. Program menampilkan struk pembayaran
 
-## Pembagian Tugas
-- Shalwa Maulidha Husein → Coding
-- Chindy Huraitul Jannah 
-- Anggota 2 → Dokumentasi
-- Anggota 3 → Testing
-- Anggota 4 → Presentasi
+Program Features
+1. Display beverage menus (Coffee, Tea, Smoothies)
+2. Input orders based on the menu
+3. Input the number of orders (quantity)
+4. Automatic total calculation
+5. 10% discount if the total purchase is > Rp100,000
+6. Print payment receipts
+7. Order cancellation option
 
-## Catatan
-Project ini dibuat untuk memenuhi tugas UAS Algoritma dan Pemograman 
+
+How to Use
+1. Select menu number
+2. Enter order quantity
+3. Select:
+   y → add order
+   n → done
+   c → cancel order
+4. The program displays the payment receipt
+
+
+Task 
+1. Shalwa Maulidha Husein – (Coding)
+2. Natasha Imanuella Putricya Tanu – (Coding & Flowchart)
+3. Chindy Huraitul Jannah – (Cameraman)
+4. Raihani Putrina Hendri – (Editor)
+5. Nurisma Aulia – (Editor)
+6. Uzochukwu Somtochukwu Peter  
+
+
+Notes:
+This project was created to fulfill the Algorithm and Programming final exam assignment. 
+
+
 
